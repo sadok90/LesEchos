@@ -1,4 +1,4 @@
-package com.example.lesechos.data.repository
+package com.example.lesechos.domain.repository
 
 import com.example.lesechos.data.remote.dto.NewsResponse
 
